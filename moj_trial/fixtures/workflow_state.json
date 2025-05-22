@@ -1,0 +1,173 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "question-sign",
+  "modified": "2025-05-17 21:49:05.945172",
+  "name": "Pending",
+  "style": "",
+  "workflow_state_name": "Pending"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "ok-sign",
+  "modified": "2025-05-17 21:49:05.948298",
+  "name": "Approved",
+  "style": "Success",
+  "workflow_state_name": "Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 14:30:05.752688",
+  "name": "Disciplinary Review",
+  "style": "",
+  "workflow_state_name": "Disciplinary Review"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 14:08:56.554790",
+  "name": "Penality Assessment",
+  "style": "",
+  "workflow_state_name": "Penality Assessment"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:57:17.132624",
+  "name": "Completed",
+  "style": "",
+  "workflow_state_name": "Completed"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:56:48.879181",
+  "name": "TIN Registration",
+  "style": "",
+  "workflow_state_name": "TIN Registration"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "remove",
+  "modified": "2025-05-17 21:49:05.952012",
+  "name": "Rejected",
+  "style": "Danger",
+  "workflow_state_name": "Rejected"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:55:50.119759",
+  "name": "Registry Processing",
+  "style": "",
+  "workflow_state_name": "Registry Processing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:55:30.866311",
+  "name": "License Preparation",
+  "style": "",
+  "workflow_state_name": "License Preparation"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:54:57.113093",
+  "name": "Committee Review",
+  "style": "",
+  "workflow_state_name": "Committee Review"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:55:13.809455",
+  "name": "Decision Made",
+  "style": "",
+  "workflow_state_name": "Decision Made"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:53:00.314455",
+  "name": "Service Fee Payment",
+  "style": "",
+  "workflow_state_name": "Service Fee Payment"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:46:35.978038",
+  "name": "Forensic Check Completed",
+  "style": "",
+  "workflow_state_name": "Forensic Check Completed"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:47:28.813127",
+  "name": "Exam Conducted",
+  "style": "",
+  "workflow_state_name": "Exam Conducted"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:43:39.887231",
+  "name": "Draft",
+  "style": "",
+  "workflow_state_name": "Draft"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:47:06.214759",
+  "name": "Exam Registration",
+  "style": "",
+  "workflow_state_name": "Exam Registration"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:46:14.362838",
+  "name": "Forensic Check Requested",
+  "style": "",
+  "workflow_state_name": "Forensic Check Requested"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:44:05.384835",
+  "name": "Document Submission",
+  "style": "",
+  "workflow_state_name": "Document Submission"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-05-19 09:45:40.852823",
+  "name": "Document Review",
+  "style": "",
+  "workflow_state_name": "Document Review"
+ }
+]

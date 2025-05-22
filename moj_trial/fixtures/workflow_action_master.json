@@ -1,0 +1,142 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-17 21:49:05.985616",
+  "name": "Approve",
+  "workflow_action_name": "Approve"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-17 21:49:05.987604",
+  "name": "Reject",
+  "workflow_action_name": "Reject"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-17 21:49:05.990040",
+  "name": "Review",
+  "workflow_action_name": "Review"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 14:25:10.101351",
+  "name": "Pay Penalty",
+  "workflow_action_name": "Pay Penalty"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 14:29:45.926998",
+  "name": "Open Disciplinary Case",
+  "workflow_action_name": "Open Disciplinary Case"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 14:08:31.586657",
+  "name": "Calculate Penalty",
+  "workflow_action_name": "Calculate Penalty"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 14:00:57.180133",
+  "name": "Generate TIN registration for AARA",
+  "workflow_action_name": "Generate TIN registration for AARA"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 13:56:24.157287",
+  "name": "Assign License Number",
+  "workflow_action_name": "Assign License Number"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 13:50:07.062153",
+  "name": "Register",
+  "workflow_action_name": "Register"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 13:13:16.684754",
+  "name": "Reject Applicant",
+  "workflow_action_name": "Reject Applicant"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 13:07:55.363198",
+  "name": "Request Applicant Photo and oath Form",
+  "workflow_action_name": "Request Applicant Photo and oath Form"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 13:04:10.101941",
+  "name": "Decision After Review",
+  "workflow_action_name": "Decision After Review"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 12:57:29.514463",
+  "name": "Compile and Submit to Review",
+  "workflow_action_name": "Compile and Submit to Review"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 12:55:14.381125",
+  "name": "Pay Service Fee",
+  "workflow_action_name": "Pay Service Fee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 12:39:23.147384",
+  "name": "Upload Forensic Results",
+  "workflow_action_name": "Upload Forensic Results"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 12:29:07.070126",
+  "name": "Upload Results",
+  "workflow_action_name": "Upload Results"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 12:23:30.827675",
+  "name": "Pay Exam Fee",
+  "workflow_action_name": "Pay Exam Fee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 10:43:00.861003",
+  "name": "Verify",
+  "workflow_action_name": "Verify"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 10:15:45.585150",
+  "name": "Submit",
+  "workflow_action_name": "Submit"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-05-19 10:45:12.169236",
+  "name": "Generate or Request Forensic Check",
+  "workflow_action_name": "Generate or Request Forensic Check"
+ }
+]
